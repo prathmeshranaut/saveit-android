@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="red">#bf360c</color>
+    <color name="ripple_red">#ffbf5232</color>
+
+    <color name="material_teal">@color/material_deep_teal_500</color>
+    <color name="ripple_material_teal">#ff149691</color>
+
+    <color name="blue">#304f9f</color>
+    <color name="grey">@color/material_blue_grey_800</color>
+    <color name="light">@color/primary_material_light</color>
+
+    <color name="windowBackgroundColor">#333333</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+
+    <color name="baeToolbarBackgroundColor">@color/md_red_400</color>
+    <color name="baeSecondaryBackgroundColor">@color/md_red_700</color>
+    <color name="baeColorBackgroundAccent">@color/md_green_400</color>
+    <color name="baeBackgroundColor">@color/md_grey_400</color>
+
+    <color name="primaryTextColor">@color/md_white_1000</color>
+    <color name="secondaryTextColor">@color/md_yellow_500</color>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme.Baee" parent="AppTheme">
+        <item name="android:navigationBarColor">@color/md_green_300</item>
+    </style>
+</resources>

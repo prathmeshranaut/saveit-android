@@ -1,0 +1,31 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="AppTheme.Base"/>
+
+    <style name="AppTheme.Base" parent="Theme.AppCompat.Light">
+        <item name="colorPrimary">@color/baeToolbarBackgroundColor</item>
+        <item name="colorPrimaryDark">@color/baeSecondaryBackgroundColor</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="windowActionBar">false</item>
+        <item name="android:actionBarTabTextStyle">@style/ActionBarTabText.Bae</item>
+    </style>
+
+    <style name="Theme.Baee" parent="AppTheme.Base"/>
+
+    //Theme For menu Button
+    <style name="myCustomTheme" parent="ThemeOverlay.AppCompat.Light">
+        <item name="android:textColorPrimary">@color/black</item>
+        <item name="android:textColorSecondary">#FFFFFF</item>
+        <item name="android:actionBarTabTextStyle">@style/ActionBarTabText.Bae</item>
+    </style>
+    
+    //tab style
+    <style name="Theme.Bae" parent="@android:style/Theme.Holo.Light">
+        <item name="android:actionBarTabTextStyle">@style/ActionBarTabText.Bae</item>
+    </style>
+    <style name="ActionBarTabText.Bae" parent="@android:style/Widget.Holo.Light.ActionBar.TabText">
+        <item name="android:textColor">@color/colorPrimary</item>
+    </style>
+
+</resources>
