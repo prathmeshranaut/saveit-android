@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="main_url">http://192.168.3.227:1234/api/</string>
+    <!-- Link to API -->
+    <string name="main_url"></string>
 
     <string name="need_assistance">search</string>
 

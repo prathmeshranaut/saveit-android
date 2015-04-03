@@ -248,7 +248,7 @@ public class MainActivity extends ActionBarActivity implements LocationListener 
         googleMap.moveCamera(CameraUpdateFactory.newLatLng(latLng));
 
         // Zoom in the Google Map
-        googleMap.animateCamera(CameraUpdateFactory.zoomTo(14));
+        googleMap.animateCamera(CameraUpdateFactory.zoomTo(19));
         googleMap.addMarker(new MarkerOptions().position(new LatLng(latitude, longitude)));
     }
 
