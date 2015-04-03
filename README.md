@@ -18,6 +18,6 @@ Feel free to fork and add features.
 Download and host the API on your own server. [https://github.com/aayushranaut/Saveit](https://github.com/aayushranaut/Saveit)
 Screenshots
 ===========
-![alt text](https://github.com/aayushranaut/saveit-android/screenshot/screenshot1.png, "Current Location SaveIt Android")
+![alt text](https://github.com/aayushranaut/saveit-android/blob/master/screenshots/screenshot1.png, "Current Location SaveIt Android")
 
-![alt text](https://github.com/aayushranaut/saveit-android/screenshot/screenshot2.png, "Call an ambulance SaveIt Android")
+![alt text](https://github.com/aayushranaut/saveit-android/blob/master/screenshots/screenshot2.png, "Call an ambulance SaveIt Android")
